@@ -1,0 +1,2 @@
+# palystory
+to install app
